@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// OpenZeppelin Contracts v4.3.2 (security/Pausable.sol)
+// BattleTanksCity Contracts (security/Pausable.sol)
 
 pragma solidity ^0.8.0;
 
