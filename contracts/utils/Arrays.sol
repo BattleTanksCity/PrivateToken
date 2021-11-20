@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// OpenZeppelin Contracts v4.3.2 (utils/Arrays.sol)
+// BattleTanksCity Contracts (utils/Arrays.sol)
 
 pragma solidity ^0.8.0;
 
